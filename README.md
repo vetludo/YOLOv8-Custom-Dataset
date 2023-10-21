@@ -5,3 +5,4 @@ This project is using construction safety dataset from roboflow.
 https://universe.roboflow.com/roboflow-universe-projects/construction-site-safety/dataset/28
 
 Sample detection picture is shown below.
+![](sample.png)
